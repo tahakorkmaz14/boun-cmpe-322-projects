@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taha/Desktop/P1/src/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+fcntl.h
+-
+errno.h
+-
+unistd.h
+-
+string.h
+-
+bits/stdc++.h
+-
+
